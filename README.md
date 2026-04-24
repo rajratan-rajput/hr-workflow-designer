@@ -123,25 +123,7 @@ Open: http://localhost:5173
 * Traverses workflow in execution order
 * Simulates async operations
 
----
 
-## ⚠️ Assumptions & Limitations
-
-* Workflow execution is **linear**
-* Parallel/branching execution is not fully supported
-* Only basic validation implemented
-* No backend persistence (mock API only)
-
----
-
-## 🔮 Future Improvements
-
-* Advanced validation (cycle detection, strict constraints)
-* Branching and parallel workflow execution
-* Export/Import workflow as JSON
-* Undo/Redo functionality
-* Backend integration for persistence
-* Visual validation errors on nodes
 
 ---
 
