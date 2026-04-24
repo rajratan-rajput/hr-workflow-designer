@@ -99,6 +99,9 @@ npm run dev
 Open: http://localhost:5173
 
 ---
+## Live Demo
+https://hr-workflow-designer.vercel.app
+---
 
 ## 🧠 Architecture & Design Decisions
 
